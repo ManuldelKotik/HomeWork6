@@ -92,7 +92,7 @@ public class HomeWork6 {
 class MainClassString {
     public static void main(String[] args) {
 
-        String str1 = " Предложение один    Теперь предложение два     Предложение три";
+        String str1 = "Position 1    Position 2     Position 3";
         System.out.println(str1);
 
         String str2 = str1.replaceAll(" +", " ");
